@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1008987463382",
+    "project_id": "fec-proj",
+    "storage_bucket": "fec-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008987463382:android:0de6625cbb91c53c127377",
+        "android_client_info": {
+          "package_name": "com.android.samples.navdonutcreator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008987463382-0h59hed2676k3hgte3qiotf7apj32s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTOmftkJOSpdtbf8BVyjqVzvkcxYNcRI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008987463382-0h59hed2676k3hgte3qiotf7apj32s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008987463382:android:baec7945b93d8c7f127377",
+        "android_client_info": {
+          "package_name": "com.resp.native_fec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008987463382-0h59hed2676k3hgte3qiotf7apj32s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTOmftkJOSpdtbf8BVyjqVzvkcxYNcRI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008987463382-0h59hed2676k3hgte3qiotf7apj32s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
